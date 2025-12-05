@@ -1,0 +1,19 @@
+{
+  "countries": [
+    {
+      "name": "Andorra",
+      "code": "AD",
+      "cities": [
+        {
+          "name": "Hi"
+        },
+        {
+          "name": "Done"
+        },
+        {
+          "name": "Solve"
+        }
+      ]
+    }
+  ]
+}
