@@ -1,14 +1,134 @@
 {
   "countries": [
     {
-      "name": "Niger",
-      "code": "NE",
+      "name": "United States",
+      "code": "US",
       "cities": [
         {
-          "name": "dbgnhj"
+          "name": "Karachi"
         },
         {
-          "name": "xfcvghbnj"
+          "name": "Lahore"
+        },
+        {
+          "name": "Islamabad"
+        },
+        {
+          "name": "Abbottabad"
+        },
+        {
+          "name": "Abdul hakim"
+        },
+        {
+          "name": "Adda bun bosan"
+        },
+        {
+          "name": "Adda johal 97 / rb"
+        },
+        {
+          "name": "Adda lar"
+        },
+        {
+          "name": "Adda sheikh wan"
+        },
+        {
+          "name": "Adda siraj"
+        },
+        {
+          "name": "Adda zakheera"
+        },
+        {
+          "name": "Ahmed pur lamma"
+        },
+        {
+          "name": "Ahmedpur east"
+        },
+        {
+          "name": "Ahmedpur sial"
+        },
+        {
+          "name": "Ajnia wala"
+        },
+        {
+          "name": "Akhtar abad"
+        },
+        {
+          "name": "Akora khattak"
+        },
+        {
+          "name": "Ali pur chatha"
+        },
+        {
+          "name": "Alipur"
+        },
+        {
+          "name": "Allah abad"
+        },
+        {
+          "name": "Amangarh"
+        },
+        {
+          "name": "Ameenpur bangla"
+        },
+        {
+          "name": "Arifwala"
+        },
+        {
+          "name": "Attock"
+        },
+        {
+          "name": "Awaran"
+        },
+        {
+          "name": "Ayubia"
+        },
+        {
+          "name": "Baddomalhi"
+        },
+        {
+          "name": "Badin"
+        },
+        {
+          "name": "Baffa"
+        },
+        {
+          "name": "Bagh ajk"
+        },
+        {
+          "name": "Bahawalnagar"
+        },
+        {
+          "name": "Bahawalpur"
+        },
+        {
+          "name": "Bahtar more"
+        },
+        {
+          "name": "Baig pur"
+        },
+        {
+          "name": "Bajore agency"
+        },
+        {
+          "name": "Bakrani"
+        },
+        {
+          "name": "Balakot"
+        },
+        {
+          "name": "Balam but"
+        },
+        {
+          "name": "Banglow gogera"
+        },
+        {
+          "name": "Banguldero"
+        },
+        {
+          "name": "Bannu"
+        },
+        {
+          "name": "Bara"
         }
       ]
     }
