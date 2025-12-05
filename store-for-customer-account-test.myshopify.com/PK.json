@@ -1,1 +1,16 @@
-
+{
+  "countries": [
+    {
+      "name": "Niger",
+      "code": "NE",
+      "cities": [
+        {
+          "name": "dbgnhj"
+        },
+        {
+          "name": "xfcvghbnj"
+        }
+      ]
+    }
+  ]
+}
