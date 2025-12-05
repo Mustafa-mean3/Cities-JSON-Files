@@ -1,0 +1,19 @@
+{
+  "countries": [
+    {
+      "name": "Pakistan",
+      "code": "PK",
+      "cities": [
+        {
+          "name": "dfghj"
+        },
+        {
+          "name": "sdfghj"
+        },
+        {
+          "name": "dfghj"
+        }
+      ]
+    }
+  ]
+}
