@@ -1,13 +1,1 @@
-{
-  "countries": [
-    {
-      "name": "Pakistan",
-      "code": "PK",
-      "cities": [
-        "Karachi",
-        "Lahore",
-        "sdfghjkl"
-      ]
-    }
-  ]
-}
+{"countries":[{"name":"Pakistan","code":"PK","cities":["Karachi","Lahore","dfghjkl","sdfghjkl"]}]}
