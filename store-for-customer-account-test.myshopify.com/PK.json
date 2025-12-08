@@ -1,1 +1,12 @@
-{"countries":[{"name":"Pakistan","code":"PK","cities":["Karachi","Lahore","Mustafa","hai"]}]}
+{
+  "countries": [
+    {
+      "name": "Pakistan",
+      "code": "PK",
+      "cities": [
+        "Karachi",
+        "Lahore"
+      ]
+    }
+  ]
+}
