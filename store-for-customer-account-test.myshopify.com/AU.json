@@ -4,7 +4,9 @@
       "name": "Australia",
       "code": "AU",
       "cities": [
-        "qwdfg"
+        "Sydney",
+        "Perth",
+        "Melbourne"
       ]
     }
   ]
