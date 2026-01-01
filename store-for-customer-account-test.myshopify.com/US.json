@@ -4,10 +4,9 @@
       "name": "United States",
       "code": "US",
       "cities": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Pakistan"
+        "abc",
+        "def",
+        "ghi"
       ]
     }
   ]
