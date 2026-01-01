@@ -1,0 +1,14 @@
+{
+  "countries": [
+    {
+      "name": "New Zealand",
+      "code": "NZ",
+      "cities": [
+        "Auckland",
+        "Wellington",
+        "Christchurch",
+        "Hamilton"
+      ]
+    }
+  ]
+}
