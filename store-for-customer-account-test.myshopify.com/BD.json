@@ -1,0 +1,12 @@
+{
+  "countries": [
+    {
+      "name": "Bangladesh",
+      "code": "BD",
+      "cities": [
+        "Dhaka",
+        "shylet"
+      ]
+    }
+  ]
+}
