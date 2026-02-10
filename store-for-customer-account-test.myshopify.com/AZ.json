@@ -1,0 +1,12 @@
+{
+  "countries": [
+    {
+      "name": "Azerbaijan",
+      "code": "AZ",
+      "cities": [
+        "Baku",
+        "Sheki"
+      ]
+    }
+  ]
+}
