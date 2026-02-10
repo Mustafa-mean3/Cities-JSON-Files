@@ -1,0 +1,11 @@
+{
+  "countries": [
+    {
+      "name": "Zimbabwe",
+      "code": "ZW",
+      "cities": [
+        "Harare"
+      ]
+    }
+  ]
+}
