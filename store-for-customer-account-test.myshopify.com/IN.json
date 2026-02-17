@@ -4,15 +4,8 @@
       "name": "India",
       "code": "IN",
       "cities": [
-        {
-          "name": "dbgnhj"
-        },
-        {
-          "name": "xfcvghbnj"
-        },
-        {
-          "name": "Pakistavbbbb"
-        }
+        "New Delhi",
+        "Mumbai"
       ]
     }
   ]
