@@ -1,0 +1,14 @@
+{
+  "countries": [
+    {
+      "name": "Argentina",
+      "code": "AR",
+      "cities": [
+        "Buenos Aires",
+        "Rosario",
+        "Mendoza",
+        "Salta"
+      ]
+    }
+  ]
+}
