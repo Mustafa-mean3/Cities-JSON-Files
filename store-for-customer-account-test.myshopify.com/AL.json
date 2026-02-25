@@ -1,0 +1,14 @@
+{
+  "countries": [
+    {
+      "name": "Albania",
+      "code": "AL",
+      "cities": [
+        "Tirana",
+        "Berat",
+        "Elbasan",
+        "Sarande"
+      ]
+    }
+  ]
+}
