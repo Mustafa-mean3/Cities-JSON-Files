@@ -1,0 +1,15 @@
+{
+  "countries": [
+    {
+      "name": "Spain",
+      "code": "ES",
+      "cities": [
+        "Madrid",
+        "Barcelona",
+        "Valencia",
+        "Zaragoza",
+        "Palma"
+      ]
+    }
+  ]
+}
