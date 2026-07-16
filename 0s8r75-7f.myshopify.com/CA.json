@@ -1,0 +1,14 @@
+{
+  "countries": [
+    {
+      "name": "Canada",
+      "code": "CA",
+      "cities": [
+        "windsor",
+        "lasalle",
+        "oashawa",
+        "ottawa"
+      ]
+    }
+  ]
+}
