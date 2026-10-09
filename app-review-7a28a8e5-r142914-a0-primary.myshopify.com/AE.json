@@ -1,0 +1,12 @@
+{
+  "countries": [
+    {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "cities": [
+        "Dubai",
+        "Abu Dhabi"
+      ]
+    }
+  ]
+}
